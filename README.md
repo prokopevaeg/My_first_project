@@ -1,2 +1,2 @@
 # My_first_project
-Test
+First steps in Git
